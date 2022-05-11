@@ -7,7 +7,7 @@ v7.1.0-beta+1B02 'Escape to Danger' (4 May 2022)
 Inweb offers a modern approach to literate programming. Unlike the original
 LP tools of the late 1970s, led by Donald Knuth, or of the 1990s revival,
 Inweb aims to serve programmers in the Github age. It scales to much larger
-programs than CWEB, and since 2004 has been the tool used by the
+programs than [CWEB](https://en.wikipedia.org/wiki/Web_(programming_system)#CWEB), and since 2004 has been the tool used by the
 [Inform programming language project](https://github.com/ganelson/inform),
 where it manages a 300,000-line code base.
 
